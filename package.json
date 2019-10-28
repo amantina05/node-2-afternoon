@@ -1,0 +1,23 @@
+{
+  "name": "2-afternoon",
+  "version": "1.0.0",
+  "description": "local node chat server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amantina05/node-2-afternoon.git"
+  },
+  "author": "tina sosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amantina05/node-2-afternoon/issues"
+  },
+  "homepage": "https://github.com/amantina05/node-2-afternoon#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
